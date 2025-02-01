@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **KisekiMiracle/KisekiMiracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello there! Name's Kiseki, pleased to meet ya!
+
+I am a pixel artist and a frontend web developer—although most of my experience as of today is Vanilla JS, frameworks are still something I'm not really used to. So I hope to learn more about them~
